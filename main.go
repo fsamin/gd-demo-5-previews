@@ -17,14 +17,14 @@ import (
 
 const (
 	// branchLabel names the branch this code lives on.
-	branchLabel = "main"
+	branchLabel = "feat/pricing"
 	// headline is what this version of the product is about.
-	headline = "Production"
+	headline = "New pricing"
 	// accent is the colour that makes this deployment recognisable at a glance
 	// when two of them are open side by side.
-	accent = "#0050d7"
+	accent = "#1e8e3e"
 	// pitch is one sentence about what changed here.
-	pitch = "The branch every preview is a departure from."
+	pitch = "Three plans instead of one price."
 )
 
 const version = "v1"
